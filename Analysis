@@ -1,0 +1,54 @@
+🚀 Project Showcase: Comprehensive Uber Trip Analysis Using Power BI
+
+I'm excited to share one of my recent data analytics projects where I performed an in-depth analysis of Uber trip data for the Bronx region using Power BI. This project aimed to uncover insights into user behavior, trip trends, fare patterns, and vehicle preferences to assist in strategic decision-making and operational improvements.
+
+📌 Project Objective:
+To develop an interactive and insightful Power BI dashboard that enables stakeholders to:
+Monitor overall trip and revenue performance
+Understand customer preferences by vehicle type and location
+Analyze time-based trends in passenger volume and fare amounts
+Forecast future performance based on historical trends
+
+📊 Dashboard Highlights:
+🧾 Overview Analysis
+Total Bookings: 179
+Total Revenue: $5,000
+Average Booking Amount: $28
+Average Trip Distance: 8 Miles
+Average Trip Duration: 22.8 Minutes
+Total Distance Covered: 1,000 Miles
+
+💳 Payment & Trip Type Insights
+The majority of bookings were completed using Uber Pay, followed by Cash and Amazon Pay.
+Day trips were more common than night trips, indicating daytime peak usage.
+
+🚗 Vehicle Type Analysis
+UberX was the most preferred ride type with 68 bookings and a total revenue of $2,037, covering over 553 miles.
+Other notable options included Uber Comfort, UberXL, Uber Black, and Uber Green.
+UberX, Uber Comfort, and UberXL together accounted for the majority of trip distances and revenue.
+
+📍 Location Analysis
+West Concourse emerged as the top location for trip activity with 46 bookings, followed by Van Nest/Morris Park and Pelham Bay.
+A dynamic map was used to visually identify geographic hotspots of activity within the Bronx region.
+
+📈 Forecasting & Trend Analysis:
+Using line graphs with trend lines and confidence bands, I forecasted:
+Passenger Count: Increasing trend observed throughout June, with projected stability and mild fluctuation into early July.
+Fare Amount: Strong upward trend, with revenues peaking at $64K near the end of the month.
+These trends indicate growing demand and revenue opportunities in the coming weeks.
+
+🛠️ Tools & Skills Applied:
+Power BI: For building interactive dashboards and visualizations
+DAX (Data Analysis Expressions): For calculating KPIs and dynamic metrics
+Forecasting Models: To predict trends using built-in analytics features
+Data Cleaning & Modeling: To prepare and structure data for analysis
+Storytelling with Data: To transform raw numbers into clear insights
+
+💡 Key Learnings & Takeaways:
+The importance of visual hierarchy and clean UI/UX in storytelling through dashboards
+Hands-on experience with geo-mapping and trend forecasting
+Real-world understanding of how ride-sharing platforms can optimize based on location, vehicle type, and user trends
+Reinforced my capabilities in using Power BI as a strategic analytics tool
+
+🤝 Let’s Connect!
+If you're working in the field of data analytics, business intelligence, or ride-sharing optimization, I’d love to hear your thoughts. Feedback is always welcome, and I’m open to collaborations or opportunities in analytics and data science.
